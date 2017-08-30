@@ -3,3 +3,7 @@ Now It is going well to 'commit <file>' whitout 'add <file>'.
 But Set the 'add' this order is certainly what role. It is not yet known what the 'add' is.
 
 Here I try to build a new file and submit it to see if it is consistent with my expectations.
+
+8/30
+add for reset
+
