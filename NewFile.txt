@@ -13,3 +13,7 @@ for branch commit
 add for reset
 
 >>>>>>> 4ad278a577cc65bac879e8106d8635e72e358db1
+
+
+8/31 10:37
+I do not know what's these mean that '<<<<<<< HEAD' and '========' and '>>>>>>>4ad278...'
