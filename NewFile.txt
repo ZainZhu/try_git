@@ -5,5 +5,11 @@ But Set the 'add' this order is certainly what role. It is not yet known what th
 
 Here I try to build a new file and submit it to see if it is consistent with my expectations.
 
+<<<<<<< HEAD
 8/30 16.52
 for branch commit
+=======
+8/30
+add for reset
+
+>>>>>>> 4ad278a577cc65bac879e8106d8635e72e358db1
